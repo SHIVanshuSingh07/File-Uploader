@@ -2,7 +2,7 @@
 
 This is a simple file uploader web application implemented using HTML, CSS, and JavaScript. It allows users to select a file from their device and read its contents using JavaScript.
 <br>
-<img src="fileuploader.png">
+<img src="fileuploaderss.png">
 
 ## Features
 
